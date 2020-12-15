@@ -1,0 +1,10 @@
+C:\Users\cliente-preferido\source\repos\ProxyPattern\obj\Debug\ProxyPattern.csprojAssemblyReference.cache
+C:\Users\cliente-preferido\source\repos\ProxyPattern\obj\Debug\ProxyPattern.Form1.resources
+C:\Users\cliente-preferido\source\repos\ProxyPattern\obj\Debug\ProxyPattern.Properties.Resources.resources
+C:\Users\cliente-preferido\source\repos\ProxyPattern\obj\Debug\ProxyPattern.csproj.GenerateResource.cache
+C:\Users\cliente-preferido\source\repos\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\cliente-preferido\source\repos\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\cliente-preferido\source\repos\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\cliente-preferido\source\repos\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\cliente-preferido\source\repos\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\cliente-preferido\source\repos\ProxyPattern\obj\Debug\ProxyPattern.pdb
